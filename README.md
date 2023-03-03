@@ -5,7 +5,7 @@
 _**절과 사람들의 이야기를 담다, 구구절절**_
 
 <a href="https://apps.apple.com/kr/app/%EA%B5%AC%EA%B5%AC%EC%A0%88%EC%A0%88/id1644992356" target="_blank"><img src="https://user-images.githubusercontent.com/48851230/199987962-7fdac587-b1a0-4570-ad14-464c47fe2843.png" width="150" height="50" /></a>
-<img src="https://user-images.githubusercontent.com/48851230/199987752-1de47616-5baa-4834-913e-df7664625499.png" width="150" height="53"/>
+<a href="https://play.google.com/store/apps/details?id=com.eun.gugujeoljeol.ggjj.aos" target="_blank"><img src="https://user-images.githubusercontent.com/48851230/199987752-1de47616-5baa-4834-913e-df7664625499.png" width="150" height="53"/></a>
 
 <img style="max-width: 100%;" src="https://user-images.githubusercontent.com/48851230/199778058-ab971f54-efa4-4297-83a0-4e6e7f404017.png" /><br>
 
