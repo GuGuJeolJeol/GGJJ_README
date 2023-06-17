@@ -44,10 +44,10 @@ _**절과 사람들의 이야기를 담다, 구구절절**_
 
 ## 👨‍👧‍👧 Contributors
 
-| `iOS` | `Server` | `Server` |
-| :---: | :------: | :------: |
-| <img src="https://user-images.githubusercontent.com/48851230/199772130-219e1df7-5b8e-4b41-a8ce-1c05bc7513ca.png" width="500"> | <img src="https://user-images.githubusercontent.com/48851230/199772301-e89a48d8-d842-4824-b029-ed79fe2596ac.png" width="500"> | <img src="https://user-images.githubusercontent.com/48851230/199772442-63b9f5bd-4694-46da-badd-8562af0c11e4.png" width="500"> |
-| [@Seon-Ju](https://github.com/Seon-Ju) | [@SukWooJung](https://github.com/SukWooJung) | [@hyun-seung](https://github.com/hyun-seung) |
+| `iOS` | `Android` | `Server` | `Server` |
+| :---: | :-------: | :------: | :------: |
+| <img src="https://github.com/GuGuJeolJeol/.github/assets/48851230/b408920b-5be3-4748-9510-214deda8d27a" width="500"> | <img src="https://github.com/GuGuJeolJeol/GGJJ_iOS/assets/48851230/5a416cb6-021d-464d-a3a9-2f1a34a8463e" width="500"> | <img src="https://user-images.githubusercontent.com/48851230/199772301-e89a48d8-d842-4824-b029-ed79fe2596ac.png" width="500"> | <img src="https://github.com/GuGuJeolJeol/.github/assets/48851230/220fe2ab-18eb-4c24-a5e6-54e0431adb98" width="500"> |
+| [@Seonju Kim](https://github.com/Seon-Ju) | [@Jiyeon Eun](https://github.com/eunoia3) | [@Sukwoo Jung](https://github.com/SukWooJung) | [@Hyunseung Lim](https://github.com/hyun-seung) |
 
 <br>
 
