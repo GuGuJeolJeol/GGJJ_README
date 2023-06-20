@@ -46,7 +46,7 @@ _**절과 사람들의 이야기를 담다, 구구절절**_
 
 | `iOS` | `Android` | `Server` | `Server` |
 | :---: | :-------: | :------: | :------: |
-| <img src="https://github.com/GuGuJeolJeol/.github/assets/48851230/b408920b-5be3-4748-9510-214deda8d27a" width="500"> | <img src="https://github.com/GuGuJeolJeol/GGJJ_iOS/assets/48851230/5a416cb6-021d-464d-a3a9-2f1a34a8463e" width="500"> | <img src="https://user-images.githubusercontent.com/48851230/199772301-e89a48d8-d842-4824-b029-ed79fe2596ac.png" width="500"> | <img src="https://github.com/GuGuJeolJeol/.github/assets/48851230/220fe2ab-18eb-4c24-a5e6-54e0431adb98" width="500"> |
+| <img src="https://github.com/GuGuJeolJeol/.github/assets/48851230/b408920b-5be3-4748-9510-214deda8d27a" width="500"> | <img src="https://github.com/GuGuJeolJeol/.github/assets/48851230/8e1d3f47-8576-4727-9461-7690c6409ab5" width="500"> | <img src="https://user-images.githubusercontent.com/48851230/199772301-e89a48d8-d842-4824-b029-ed79fe2596ac.png" width="500"> | <img src="https://github.com/GuGuJeolJeol/.github/assets/48851230/220fe2ab-18eb-4c24-a5e6-54e0431adb98" width="500"> |
 | [@Seonju Kim](https://github.com/Seon-Ju) | [@Jiyeon Eun](https://github.com/eunoia3) | [@Sukwoo Jung](https://github.com/SukWooJung) | [@Hyunseung Lim](https://github.com/hyun-seung) |
 
 <br>
